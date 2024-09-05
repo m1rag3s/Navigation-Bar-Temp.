@@ -1,0 +1,6 @@
+Many parts of the Navigation Bar are based on YouTube that I simply follow.
+ I choose a simple design and easy to follow. But one I choose doesn’t have a dropdown on one of list so I have to find it out myself. 
+ The layout will change once it changes in small devices the menu button will appear and show the rest of the elements. 
+ I didn’t use button for the dropdown of Services but instead just a hover since I think it would be easier and more appropriate for the situation. 
+ I look in the browser to find the hover function for the dropdown to use it as a basis and it took some long work to implement it correctly.
+ Once all the main functions done I use the extra time to decorate it and use some icons, choose right colors and backgrounds and I even change the positions of the navigation bar that I think is the best.
